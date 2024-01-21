@@ -1,0 +1,42 @@
+Moveables_FR = {
+    -- lighting_indoor_01
+    Dark_Floor_Lamp = "Lampadaire sombre",
+    Light_Floor_Lamp = "Lampadaire clair",
+    White_Floor_Lamp = "Lampadaire blanc",
+
+    -- location_business_bank_01
+    Automated_Teller_Machine = "Guichet automatique",
+    Security_Safe = "Coffre-fort de sécurité",
+
+    -- location_business_distillery_01
+    Distillery_Shelves = "Étagères de distillerie",
+    2_Barrel_Distillery_Shelves = "Étagères de distillerie 2 fûts",
+    1_Barrel_Distillery_Shelves = "Étagères de distillerie 1 fût",
+    Wood_Barrel = "Tonneau en bois",
+
+    -- location_community_medical_01
+    Medical_Microscope = "Microscope médical",
+    Steel_Medicine_Counter = "Compteur de médicaments en acier",
+
+    -- location_farm_accesories_01
+    Industrial_Animal_Trough = "Auge industriel pour animaux",
+    Large_Animal_Trough = "Grande mangeoire pour animaux",
+
+    -- location_services_beauty_01
+    Barber_Pole = "Enseigne de barbier",
+    Salon_Dryer = "Séchoir de salon de coiffure",
+
+    -- location_shop_fossoil_01
+    Fossoil_Magazine_Shelves = "Étagères pour magazines Fossoil",
+
+    -- location_shop_generic_01
+    Beige_Magazine_Shop_Shelves = "Étagères de magasin beige pour magazines",
+
+    -- location_shop_zippee_01
+    Zippee_Magazine_Shelves = "Étagères pour magazines Zippee",
+
+    -- recreational_sports_01
+    Basketball_Hoop = "Panier de basket",
+    Basketball_Hoop_Pole = "Poteau de panier de basket",
+    Gym_Mat = "Tapis de gymnastique",
+}
